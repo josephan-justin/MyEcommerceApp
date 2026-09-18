@@ -1,0 +1,21 @@
+{
+  "name": "rmt-75-gc02-josephan-justin",
+  "version": "1.0.0",
+  "description": "- Student mampu membuat aplikasi server dengan menggunakan menggunakan Typescript, NEXT.js dan melakukan proses CRUD dengan database MongoDB\r - Student mampu membuat web aplikasi dengan menggunakan framework NEXT.js\r - Student mampu menghandle navigasi pada NEXT.js\r - Student mampu menghandle authentikasi pada NEXT.js\r - Student mampu mengimplementasikan CSR & SSR pada NEXT.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H8-FSJS-P3S7/rmt-75-GC02-josephan-justin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/H8-FSJS-P3S7/rmt-75-GC02-josephan-justin/issues"
+  },
+  "homepage": "https://github.com/H8-FSJS-P3S7/rmt-75-GC02-josephan-justin#readme"
+}
