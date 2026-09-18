@@ -1,52 +1,51 @@
-# My eCommerce App
+# My Ecommerce App
 
-## Tujuan Pembelajaran
+My Ecommerce App is a responsive e-commerce web application built with Next.js and TypeScript. It allows users to browse, search, and discover products through a simple and responsive interface.
 
-- Student mampu membuat aplikasi server dengan menggunakan menggunakan Typescript, NEXT.js dan melakukan proses CRUD dengan database MongoDB
-- Student mampu membuat web aplikasi dengan menggunakan framework NEXT.js
-- Student mampu menghandle navigasi pada NEXT.js
-- Student mampu menghandle authentikasi pada NEXT.js
-- Student mampu mengimplementasikan CSR & SSR pada NEXT.js
+## Features
 
-## Aturan Umum
+- Product listing
+- Dynamic product detail pages using product slugs
+- Product search
+- Pagination
+- Infinite scroll
+- Wishlist functionality
+- User registration and login
+- Responsive user interface
 
-Challenge Hacktiv8 bersifat latihan WAJIB yang menjunjung tinggi INTEGRITAS. Segala bentuk ketidakjujuran meliputi peniruan, plagiarisme, pemalsuan pengerjaan akan mendapatkan tindakan tegas dari akademik.
+## Tech Stack
 
-Untuk melatih best practice di lapangan kerja, student diharuskan untuk melakukan git commit minimal 1 hari 4 kali dengan message yang deskriptif atau commit message yang sesuai
+- Next.js
+- TypeScript
+- Tailwind CSS
+- MongoDB
 
-## Ringkasan
+## Main Features
 
-My eCommerce App adalah sebuah web aplikasi yang dibangun menguunakan Typescript , framework NEXT.js dan database MongoDB, jadi kerjakan dengan baik sebagai bekal portofolio kamu.
+### Product Browsing
 
-Pada challenge ini, kamu diminta untuk membuat aplikasi client-server dengan detail sebagai berikut:
+Users can browse available products and access individual product detail pages through dynamic product slugs.
 
-### Halaman
+### Product Search
 
-- [ ] Halaman Register
-- [ ] Halaman Login
-- [ ] Halaman Home
-  - [ ] Banner Promo
-  - [ ] Detail info Ecommerce
-  - [ ] Featured Product (5-10 product) + “see-all”
-- [ ] Halaman Product
-- [ ] List Product
-  - [ ] Fitur Search
-  - [ ] Fitur Pagination (menggunakan infinite scroll)
-  - [ ] Fitur Add to wishlist
-- [ ] Halaman Detail Product
-  - [ ] Fitur Add to wishlist
-  - [ ] Implementasi Meta Tag di Head sesuai detail product
-- [ ] Halaman Wishlist Product
-  - [ ] List Wishlist
-  - [ ] Fitur Remove Wishlist
+Users can search for products based on their needs.
 
-### Fitur
+### Pagination & Infinite Scroll
 
-- [ ] Fitur register
-- [ ] Fitur login
-- [ ] Fitur show list product
-- [ ] Fitur show detail product
-- [ ] Fitur add to wishlist
-- [ ] Fitur remove wishlist
-- [ ] Fitur search product berdasarkan nama (implement menerapkan debounce)
-- [ ] Fitur pagination (implement infinite scroll)
+The application supports pagination and infinite scrolling to improve the product browsing experience.
+
+### Wishlist
+
+Users can add products to their wishlist, view saved products, and remove products from their wishlist.
+
+### Authentication
+
+Users can register and log in to access user-specific functionality such as the wishlist.
+
+## Project Type
+
+Personal Full-Stack Web Development Project
+
+## Author
+
+Josephan Justin Anggistian
